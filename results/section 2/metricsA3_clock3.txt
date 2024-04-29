@@ -1,0 +1,6 @@
+Benchmarks	sim_seconds	system.cpu.cpi	system.cpu.dcache.overall_miss_rate::total	system.cpu.icache.overall_miss_rate::total	system.l2.overall_miss_rate::total
+QuestionA3_Benchmark1_clock3	0.058385	1.753291	0.014932	0.000077	0.282166
+QuestionA3_Benchmark2_clock3	0.043867	1.317329	0.002108	0.023609	0.055046
+QuestionA3_Benchmark3_clock3	0.039646	1.190581	0.001637	0.000221	0.077761
+QuestionA3_Benchmark4_clock3	0.449821	13.508136	0.121831	0.000020	0.999972
+QuestionA3_Benchmark5_clock3	0.146433	4.397377	0.060972	0.000094	0.999944
